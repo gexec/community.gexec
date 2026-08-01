@@ -1,4 +1,8 @@
-.direnv/
-.devenv/
+mise.local.toml
 
-.pre-commit-config.yaml
+*.retry
+.ansible/
+
+__pycache__/
+*.py[cod]
+*$py.class
