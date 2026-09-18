@@ -3,7 +3,7 @@
 [tools]
 node = "24"
 prek = "0.5.3"
-uv = "0.12.15"
+uv = "0.12.16"
 
 "pipx:ansible-core" = { version = "2.21.4", uvx_args = "--with docker --with requests" }
 "pipx:ansible-doctor" = { version= "8.4.2", uvx_args = "--with ansible-core" }
